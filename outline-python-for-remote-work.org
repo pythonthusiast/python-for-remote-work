@@ -1,0 +1,36 @@
+* Course Feature
+  Python itu mudah.
+  Tapi powerful.
+  Untuk semua platform.
+  Khusus disini remote work.
+  Nah, kenapa itu?
+* Python in Remote Work
+* Installing Python and IDE
+* Fundamental Python syntax
+  Creating python project
+  print
+  data type=no data type, string, integer, floating
+  sequential code
+  loop with for, while
+  advance data type
+  list, dict
+  
+  
+  
+* Modularization: Done
+* Git
+  pentingnya untuk remote
+  bitbucket / github
+  ssh-keygen repo baru
+  test github dari exiting directory
+  github dari repo
+  gitignore
+  commit dan push
+
+  multi team
+  pull
+  pull conflict
+  solve conflict
+
+  branch
+  merge branch
