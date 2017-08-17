@@ -34,3 +34,9 @@
 
   branch
   merge branch
+* Desktop, Web and Mobile
+  jelaskan dengan web, diagram dengan picture dan contoh2 aplikasi dengan Python
+  untuk tiap kategori. Pahamkan bahwa memahami diagram arsitektur itu penting.
+
+  tugas: buat diagram arsitektur untuk task modularisasi
+
